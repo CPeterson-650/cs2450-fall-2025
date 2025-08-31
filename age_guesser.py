@@ -5,14 +5,14 @@ def main():
     name = input("What's your name? ")  # notice the space at the end
 
     while True:
-        guess = random.randint(15, 30)
+        guess = random.randint(10, 40)
         ans = input(f"Is your age {guess}? (y/n): ").strip().lower()
 
         if ans == "y":
             print(f"NICE, I've still got it")
             break
         elif ans == "n":
-            print("Off season, let me try again")
+            print("Dang, might not be as good anymore")
         else:
             print("Please answer with 'y' or 'n'.")
 
