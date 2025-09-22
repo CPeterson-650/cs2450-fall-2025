@@ -83,4 +83,23 @@ Branches:
 Make a branch
 Edit your code on the branch, git add, commit and push on the branch
 
+
+Date: 09.19.25
+
+Subject: Diagrams
+
+We talked about making plans and organizing how our code works. It's interesting seeing how much planning goes into programming. I never hear about this sort of thing from any forms of media, its interesting seeing a new form of communication for technology.
+
+I can tell just how important stuff like this could be if i were to do any IT for the military, I could even introduce this to my branch if its necessary.
+
+
+Date: 09.22.25
+
+Subject: Presenting products.
+
+Pitch deck, baiscally explaining the essentials so that you can get someone to fund you. 
+
+Audience, goals, design principles.
+
+When designing diagrams, having a legend helps alot with layout and audience understanding. Having colors and shapes explained off to the side give great flow. 
 '''
