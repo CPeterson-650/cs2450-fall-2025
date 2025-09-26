@@ -102,4 +102,12 @@ Pitch deck, baiscally explaining the essentials so that you can get someone to f
 Audience, goals, design principles.
 
 When designing diagrams, having a legend helps alot with layout and audience understanding. Having colors and shapes explained off to the side give great flow. 
+
+Date: 09.26.25
+
+Subject: Website work day
+
+We worked on our website today, we were talking about dependencies and features we wanted to add. I managed to find a neat way of using flask for my Graffitti idea, its going to need HTML to basically put a secondary lair on a users profile thats only purpose is to be drawn on.
+
+Its super cool learning the different libraries.
 '''
