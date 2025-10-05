@@ -110,4 +110,20 @@ Subject: Website work day
 We worked on our website today, we were talking about dependencies and features we wanted to add. I managed to find a neat way of using flask for my Graffitti idea, its going to need HTML to basically put a secondary lair on a users profile thats only purpose is to be drawn on.
 
 Its super cool learning the different libraries.
+
+Date: 10.01.25
+
+Subject: Absent
+
+I had a really bad morning, really wasnt mentally healthy, I told my teamates I wasnt doing to well but I would still work on my code for the project.
+
+What i learned from my solo research on the graffiti add on is we use Flask as the server and import a bunch of renders. Then use HTML for the templates and user profiles. And of course to actually draw you need the css with the HTML. Its really COOL!!
+
+Date: 10.05.25
+
+Subject: Mid term check
+
+Hey! hope I've done enough tracking for the journal entrties. Its nice looking back and seeing my progress. 
+
+
 '''
