@@ -126,4 +126,49 @@ Subject: Mid term check
 Hey! hope I've done enough tracking for the journal entrties. Its nice looking back and seeing my progress. 
 
 
+
+Date: 10.06.25
+
+Subject: Implimentation
+
+What does developing look like as a software engineer?
+
+Some considerations are company goals, people working together, and technical complexity.
+
+All of these tie into limitations: budget, tools, culture, personal issues, enviornment, morals/opinions. 
+
+For job interviews they literally ask you to do the BAG assignment from discrete structures. 
+
+SQL is an important course. Also, try making some programs and putting them in your github. Open source contributions to other projects is more imporant than GPA in job listings. 
+
+scrum master: Johnny.
+
+Date: 10.09.25
+
+Subject: Pair programming
+
+We looked at the UI and tried adding our main title, the code is trying to siplay the image, but it cant locally dinf the jpg. 
+
+
+
+10.12.25
+
+Subject: Back end graffiti
+
+We got the back end programming done, took awhile lol, now we just need help merging it.
+
+10.27.25
+
+Subject: Up and running
+
+We finally got our Laptop back lol, we have had to work on paper for the past 2 weeks, what weve done so far is work with our team on the back end and front end code. 
+
+We have a pretty decent splash page set up with really cool art. Now that we have the bones for our home page, I can begin adding my feature on the front end. I need to add:
+
+A button to activate the draw mode, the draw mode, how the mode will interact with user profiles, etc...
+
+One thing i need to iron out is the other user profiles, these are still not knwon to me yet. But im very excited to get started. 
+
+
+
 '''
