@@ -170,5 +170,39 @@ A button to activate the draw mode, the draw mode, how the mode will interact wi
 One thing i need to iron out is the other user profiles, these are still not knwon to me yet. But im very excited to get started. 
 
 
+11.03.25
+
+subject: wraping up
+
+We are nearing the end of the deveopment cycle, I have finished the bulk of my graffiti, I can finally draw, I'm really proud of what I've done so far. But there is still much to do.
+
+In class we learned about deployment you write the code, you test it locally, then send it to the repository, it constantly checks to see if its good enough to pass all the unit tests, once passed, you then push it to the main branch and it will more than lickly be merged instantly, sometimes somone will need to review befor the merge. once merged its in a development enviornment, next is the QA enviornemnt, they try to break the code and refine it, once its cleared- its sent to the stagging enviornment, which is the closest step to the production enviornment.
+
+Final step, once the user acceptance rests happen, the changes are merged with the production branch and posted into the actual use, customers now have access to the new code and they are able to give feedback in mass. 
+
+
+11.10.25
+
+Subject: Maintenance
+
+architecture:
+
+- website - > server:
+
+- web server
+- application
+- data
+
+This is scaling, this is to handle new customers. How do we do that?
+
+This is an example of horizontal scaling, we can add more servers.
+
+Vertical scaling is simply making the server bigger, not adding more, but we can add more ram or CPUs, essentially just upgrading the one server.
+
+Theres a method of using servers called, cloud elasticity. Essentially, we are able to make our servers activate via applications that run and shut down on command, that way you dont have your servers wasting money by running with no traffic.
+
+For reference, the application takes a kind of image, that it can then paste into the server, thats how its an instant start up. The app is docker as an example. 
+
+
 
 '''
